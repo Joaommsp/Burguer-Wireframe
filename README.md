@@ -1,6 +1,6 @@
 # Burguershop Wireframe
 
-### Um wireframe de média qualidade de um site de hamburgueria ( ou até qualquer outro nicho de alimentação ) que desenvolvi para o primeiro desafio da Formação UX Design da DIO 
+### Um wireframe de média qualidade de um site de hamburgueria ( ou até qualquer outra do nicho de alimentação ) que desenvolvi para o primeiro desafio da Formação UX Design da DIO 
 
 ## Imagens
 
